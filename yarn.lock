@@ -6098,7 +6098,7 @@ browserlist@latest:
     shepherd.js: 10.0.1
     slugify: 1.6.5
     sortablejs: 1.15.0
-    vite: 3.2.4
+    vite: 3.2.8
     vue: 3.2.45
     vue-router: 4.1.6
     zxcvbn: 4.4.2
@@ -6781,9 +6781,9 @@ browserlist@latest:
   languageName: node
   linkType: hard
 
-"vite@npm:3.2.4":
-  version: 3.2.4
-  resolution: "vite@npm:3.2.4"
+"vite@npm:3.2.8":
+  version: 3.2.8
+  resolution: "vite@npm:3.2.8"
   dependencies:
     esbuild: ^0.15.9
     fsevents: ~2.3.2
@@ -6815,7 +6815,7 @@ browserlist@latest:
       optional: true
   bin:
     vite: bin/vite.js
-  checksum: 0f3e8f89c15809bd6bd8dec54b04b7c9b87374314d00928035f9d70190b4b220e8206b5d77a1e4097a5019cebf7862df4fbc11fbbb35c4f75f359999123d2c25
+  checksum: de7b44f68fbe7a54caf1a63eab01c0c7f6a1a5d88fc59f0d27fb40971d3b15247d38d36c8e7a694733ae208e0c4f0cddf1d57441b9b08c496175e983ec01740d
   languageName: node
   linkType: hard
 
